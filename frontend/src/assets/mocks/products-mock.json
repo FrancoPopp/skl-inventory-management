@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0001",
+        "name": "Hydraqueen sport top",
+        "category": "Top",
+        "price": 15900
+    },
+    {
+        "id": "0002",
+        "name": "Nike sport shorts",
+        "category": "Shorts",
+        "price": 9900
+    },
+    {
+        "id": "0003",
+        "name": "Nike sport ultra",
+        "category": "Shoes",
+        "price": 29900
+    } 
+]
